@@ -2,7 +2,7 @@ import java.util.*;
 import java.awt.*;
 
 
-public interface Stack<E> {
+public interface MyStack<E> {
 
 	int size();
 
